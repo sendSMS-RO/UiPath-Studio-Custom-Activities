@@ -13,3 +13,5 @@ UiPath Custom Activities With sendSMS.ro connector has nine activities :
 7. Blocklist add - Add the given number to block list
 8. Blocklist delete - Delete the given number from the block list
 9. Blocklist Check - Check if the given number is in the block list  
+
+You can add this activities directly from UiPath Marketplace, here is a direct link : https://connect.uipath.com/marketplace/components/connector-for-sendsmsro
